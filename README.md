@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/github/v/tag/Aetherinox/filezilla=patcher?logo=GitHub&label=version&color=ba5225) ![Downloads](https://img.shields.io/github/downloads/Aetherinox/filezilla=patcher/total) ![Repo Size](https://img.shields.io/github/repo-size/Aetherinox/filezilla=patcher?label=size&color=59702a) ![Last Commit)](https://img.shields.io/github/last-commit/Aetherinox/filezilla=patcher?color=b43bcc)
+![Version](https://img.shields.io/github/v/tag/Aetherinox/filezilla-patcher?logo=GitHub&label=version&color=ba5225) ![Downloads](https://img.shields.io/github/downloads/Aetherinox/filezilla-patcher/total) ![Repo Size](https://img.shields.io/github/repo-size/Aetherinox/filezilla-patcher?label=size&color=59702a) ![Last Commit)](https://img.shields.io/github/last-commit/Aetherinox/filezilla-patcher?color=b43bcc)
 
 </div>
 
@@ -43,7 +43,7 @@ Developed under the following conditions:
 
 # Usage
 
-If you wish to simply use this utility, head over to the [Releases](https://github.com/Aetherinox/filezilla=patcher/releases) section and download the latest binary as a `zip` or `rar`. The download is a single `exe`.
+If you wish to simply use this utility, head over to the [Releases](https://github.com/Aetherinox/filezilla-patcher/releases) section and download the latest binary as a `zip` or `rar`. The download is a single `exe`.
 
 - `FZillaPatcher.exe`
 
